@@ -1,0 +1,25 @@
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\OneThousandMonkeys.exe.config
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\OneThousandMonkeys.exe
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\OneThousandMonkeys.pdb
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.MainForm.resources
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.Properties.Resources.resources
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.csproj.GenerateResource.Cache
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.exe
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.pdb
+c:\users\robyn\documents\visual studio 2017\Projects\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.csprojResolveAssemblyReference.cache
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\OneThousandMonkeys.exe.config
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\OneThousandMonkeys.exe
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\OneThousandMonkeys.pdb
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.MainForm.resources
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.Properties.Resources.resources
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.csproj.GenerateResource.Cache
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.exe
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\obj\Debug\OneThousandMonkeys.pdb
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\log4net.dll
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\MarkovSharp.dll
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\Newtonsoft.Json.dll
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\Sanford.Multimedia.Midi.dll
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\log4net.xml
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\MarkovSharp.pdb
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\Newtonsoft.Json.xml
+C:\temp\PROJECTS\gw\prog\OneThousandMonkeys\OneThousandMonkeys\OneThousandMonkeys\bin\Debug\Sanford.Multimedia.Midi.xml
